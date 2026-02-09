@@ -1,0 +1,10 @@
+Juan;7.65
+Ana;8.20
+Luis;4.52
+María;9.76
+Tania;7.18
+Juan;6.49
+Tania;7.20
+Luis;2.90
+María;5.65
+Juan;9.87
